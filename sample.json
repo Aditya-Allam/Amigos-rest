@@ -1,0 +1,55 @@
+{
+    "restaurantName":"Hotbits",
+    "phone":"(832) 400-3376",
+    "city": "Katy",
+    "about": "TEST About Us",
+    "address":"25230 Farm to Market 1093, Katy, TX 77494",
+    "facebook": "www.facebook.com",
+    "twitter": "www.MyTwitter.com",
+    "instagram": "www.instagram.com",
+    "menu":[
+       {
+          "categorySeq":1,
+          "itemSeq":1,
+          "menuSectionTitle":"Popular Items",
+          "name":"Mixed Grill",
+          "description":"",
+          "price":"16.99",
+          "type":"fm",
+          "category":"Popular Items",
+          "classification":""
+       },
+       {
+          "categorySeq":1,
+          "itemSeq":2,
+          "menuSectionTitle":"Popular Items",
+          "name":"Chicken Butter Masala",
+          "description":"",
+          "price":"13.99",
+          "type":"fm",
+          "category":"Popular Items",
+          "classification":""
+       },
+       {
+          "categorySeq":1,
+          "itemSeq":3,
+          "menuSectionTitle":"Popular Items",
+          "name":"Garlic Naan",
+          "description":"",
+          "price":"3.25",
+          "type":"fm",
+          "category":"Popular Items",
+          "classification":""
+       }
+    ],
+    "coupons":[
+     {
+         "url":"https://static.grabqpons.com/assets/5cec1236579a000486851dac/coupons/GQ-9YB9-74XE.png" ,
+         "name":"10% Off on all Takeout Orders!"
+     },
+     {
+         "url":"https://static.grabqpons.com/assets/5cec1236579a000486851dac/coupons/GQ-9YB9-74XE.png" ,
+         "name":"20% Off on all Takeout Orders!"
+     }
+    ]
+ }
